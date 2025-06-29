@@ -1,0 +1,11 @@
+From: john.doe@example.com
+To: jane.smith@openmail.com
+Subject: Meeting Reminder
+
+From: support@openai.com
+To: student@school.edu
+Subject: New Features
+
+From: admin@pcnl.edu.ph
+To: info@education.org
+Subject: Welcome Message
